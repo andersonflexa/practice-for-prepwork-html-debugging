@@ -1,0 +1,16 @@
+.profile {
+    padding: 30px;
+    background-color: white;
+}
+
+#biography {
+    border-width: 5px;
+    border-color: black;
+    font-size: 18px;
+}
+
+.footer {
+    font-weight: normal;
+    font-size: 25px;
+    background-color: pink;
+}
